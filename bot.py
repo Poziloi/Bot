@@ -7,7 +7,7 @@ import telebot
 from models import User
 from app import db, create_app
 
-bot = telebot.TeleBot('5410293127:AAHV0j7TsxKELoMLDFlac6SlcbwEjs6V0QI') #@proekt_perevod_bot - тег бота в телеграмм
+bot = telebot.TeleBot('secret code here')
 user_id ={}
 
 print('Бот запущен и готов к работе!')
